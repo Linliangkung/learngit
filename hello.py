@@ -2,3 +2,5 @@
 # _*_ coding:utf-8
 print("hello python");
 print("hello dел");
+print("fел");
+
